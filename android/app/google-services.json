@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "576181436121",
+    "project_id": "sonalysis-cf3d7",
+    "storage_bucket": "sonalysis-cf3d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576181436121:android:22cf1795e0bb5f514bc8c8",
+        "android_client_info": {
+          "package_name": "com.parallelscore.sonalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576181436121-h5t8gtm9en3daurifcskob7ja8b206sn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTS6DcHoiH-O0JK8tcgivXc2hCXpqNYQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576181436121-h5t8gtm9en3daurifcskob7ja8b206sn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "576181436121-io3fa7glghvqruv8m3kuhnbl831p6q10.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.parallelscore.sonalysisapp",
+                "app_store_id": "1632238021"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

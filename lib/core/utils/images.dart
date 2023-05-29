@@ -1,0 +1,91 @@
+class AppAssets {
+  static const String _svgRoot = 'assets/svgs';
+  static const String _imageRoot = 'assets/images';
+  static const String _lottieRoot = 'assets/lottieFiles';
+
+  static const String appIcon = '$_imageRoot/sonalysisLogo.png';
+
+  static const String splash = '$_imageRoot/splash.png';
+  static const String logo = appIcon;
+  static const String loader = '$_imageRoot/loader.gif';
+  static const String passwordViewIcon = '$_imageRoot/passwordViewIcon.png';
+  static const String passwordViewClosedIcon = '$_imageRoot/passwordViewClosedIcon.png';
+  static const String ONBOARDING_SCREEN_01_IMAGE = '$_imageRoot/ob1.png';
+  static const String ONBOARDING_SCREEN_02_IMAGE = '$_imageRoot/ob2.png';
+  static const String ONBOARDING_SCREEN_03_IMAGE = '$_imageRoot/ob3.png';
+  static const String reg_c_bg = '$_imageRoot/reg_c_bg.png';
+  static const String placeholder = '$_imageRoot/placeholder.png';
+  static const String mastercard = '$_imageRoot/mastercard.png';
+  static const String paypal = '$_imageRoot/paypal.png';
+  static const String visa = '$_imageRoot/visa.png';
+  static const String pickedOverlay = '$_imageRoot/picked_overlay.png';
+  static const String pickedOverlay2 = '$_imageRoot/picked_overlay2.png';
+  static const String tTeam = '$_imageRoot/tTeams.png';
+  static const String tVideos = '$_imageRoot/tvideos.png';
+  static const String tStaff = '$_imageRoot/tStaff.png';
+  static const String tPlayers = '$_imageRoot/tPlayers.png';
+
+  static const String basic = '$_imageRoot/basic.png';
+  static const String premium = '$_imageRoot/premium.png';
+  static const String authBG = '$_imageRoot/authBG.png';
+  static const String bell = '$_imageRoot/bell.png';
+  static const String profileInner1 = '$_imageRoot/profileInner1.png';
+  static const String profileInner2 = '$_imageRoot/profileInner2.png';
+  static const String profileInner3 = '$_imageRoot/profileInner3.png';
+  static const String profileInner4 = '$_imageRoot/profileInner4.png';
+  static const String profileInner5 = '$_imageRoot/profileInner5.png';
+  static const String profileImage = '$_imageRoot/profile_image.png';
+  static const String analyticsImage = '$_imageRoot/analyticsImage.png';
+  static const String noVideos = '$_imageRoot/no_videos.png';
+  static const String uploadVideoFromDevice = '$_imageRoot/uploadVideoFromDevice.png';
+  static const String tinyFolder = '$_imageRoot/tinyFolder.png';
+  static const String chatOnlineIndicator = '$_imageRoot/chatOnlineIndicator.png';
+  static const String endCall = '$_imageRoot/end_call.png';
+  static const String chat = '$_imageRoot/chat.png';
+  static const String muteIndicator = '$_imageRoot/muteIndicator.png';
+  static const String person_add_alt_1 = '$_imageRoot/person_add_alt_1.png';
+  static const String searchIcon = '$_imageRoot/searchIcon.png';
+  static const String noComparison = '$_imageRoot/no_comparison.png';
+  static const String comparePlaceholderPlus = '$_imageRoot/compare_placeholder_plus.png';
+  static const String addVideo = '$_imageRoot/add_video.png';
+  static const String pvp = '$_imageRoot/pvp.png';
+  static const String pv = '$_imageRoot/pv.png';
+  static const String tvt = '$_imageRoot/tvt.png';
+  static const String emptyTeam = '$_imageRoot/empty_team.png';
+  static const String s1 = '$_imageRoot/1.png';
+  static const String s2 = '$_imageRoot/2.png';
+  static const String s3 = '$_imageRoot/3.png';
+  static const String ppic_bg = '$_imageRoot/ppic_bg.png';
+  static const String clubLogo = '$_imageRoot/clubLogo.png';
+  static const String noPlayer = '$_imageRoot/no_player.png';
+  static const String noBackRoomStaff = '$_imageRoot/noBackRoomStaff.png';
+  static const String editIcon = '$_imageRoot/edit_icon.png';
+  static const String videoCall = '$_imageRoot/videoCall.png';
+  static const String audioCall = '$_imageRoot/audioCall.png';
+  static const String notificationIcon = '$_imageRoot/notification_icon.png';
+  static const String languageIcon = '$_imageRoot/language_icon.png';
+  static const String darkModeIcon = '$_imageRoot/dark_mode_icon.png';
+  static const String securityIcon = '$_imageRoot/security_icon.png';
+  static const String helpIcon = '$_imageRoot/help_icon.png';
+  static const String logoutIcon = '$_imageRoot/logout_icon.png';
+  static const String listTrailIcon = '$_imageRoot/list_trail_icon.png';
+  static const String threeDots = '$_imageRoot/threeDots.png';
+  static const String mic = '$_imageRoot/mic.png';
+  static const String addAPhoto = '$_imageRoot/addAPhoto.png';
+  static const String emptyStaff = '$_imageRoot/noBackRoomStaff.png';
+  static const String attachCamera = '$_imageRoot/attach_camera.png';
+  static const String attachAudio = '$_imageRoot/attach_audio.png';
+  static const String attachDocs = '$_imageRoot/attach_docs.png';
+  static const String attachGallery = '$_imageRoot/attach_gallery.png';
+  static const String noPlayerStaff = '$_imageRoot/noPlayerStaff.png';
+  static const String noChat = '$_imageRoot/noChat.png';
+  static const String cannot_load_data = '$_imageRoot/cannot_load_data.png';
+  static const String yellowCard = '$_imageRoot/yellowCard.png';
+  static const String redCard = '$_imageRoot/redCard.png';
+  static const String goalEvents = '$_imageRoot/goal_events.png';
+
+
+  static const String lottieSuccess = '$_lottieRoot/success.json';
+  static const String lottieNoInternet = '$_lottieRoot/noInternet.json';
+
+}

@@ -1,0 +1,1 @@
+enum LoginSource{tokenExpired, timeout, logout}
